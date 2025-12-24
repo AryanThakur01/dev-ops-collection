@@ -24,3 +24,5 @@ override.tf.json
 .idea/
 
 .terraform*
+
+plan.out
